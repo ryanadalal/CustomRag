@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Indianapolis at Kansas City
+Indianapolis: 14
+Kansas City: 30
+Home First Downs: 18
+Visitor First Downs: 20
+Home Net Yards: 277
+Visitor Net Yards: 422
+Home Time of Possession: 26:24
+Visitor Time of Possession: 33:36

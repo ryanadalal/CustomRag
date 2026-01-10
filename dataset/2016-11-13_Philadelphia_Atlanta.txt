@@ -1,0 +1,9 @@
+2016-11-13 00:00:00, Philadelphia at Atlanta
+Philadelphia: 24
+Atlanta: 15
+Home First Downs: 25
+Visitor First Downs: 11
+Home Net Yards: 429
+Visitor Net Yards: 303
+Home Time of Possession: 38:10
+Visitor Time of Possession: 21:50

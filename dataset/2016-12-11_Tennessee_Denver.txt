@@ -1,0 +1,9 @@
+2016-12-11 00:00:00, Tennessee at Denver
+Tennessee: 13
+Denver: 10
+Home First Downs: 16
+Visitor First Downs: 19
+Home Net Yards: 253
+Visitor Net Yards: 348
+Home Time of Possession: 32:27
+Visitor Time of Possession: 27:33

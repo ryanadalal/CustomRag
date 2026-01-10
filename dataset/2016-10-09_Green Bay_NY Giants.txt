@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Green Bay at NY Giants
+Green Bay: 23
+NY Giants: 16
+Home First Downs: 23
+Visitor First Downs: 14
+Home Net Yards: 406
+Visitor Net Yards: 221
+Home Time of Possession: 36:38
+Visitor Time of Possession: 23:22

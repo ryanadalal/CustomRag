@@ -1,0 +1,9 @@
+2016-11-06 00:00:00, Oakland at Denver
+Oakland: 30
+Denver: 20
+Home First Downs: 30
+Visitor First Downs: 13
+Home Net Yards: 397
+Visitor Net Yards: 299
+Home Time of Possession: 41:28
+Visitor Time of Possession: 18:32

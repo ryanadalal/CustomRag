@@ -1,0 +1,9 @@
+2016-10-23 00:00:00, Philadelphia at Minnesota
+Philadelphia: 21
+Minnesota: 10
+Home First Downs: 15
+Visitor First Downs: 18
+Home Net Yards: 239
+Visitor Net Yards: 282
+Home Time of Possession: 27:52
+Visitor Time of Possession: 32:08

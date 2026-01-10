@@ -1,0 +1,9 @@
+2016-12-04 00:00:00, Seattle at Carolina
+Seattle: 40
+Carolina: 7
+Home First Downs: 29
+Visitor First Downs: 14
+Home Net Yards: 534
+Visitor Net Yards: 271
+Home Time of Possession: 34:01
+Visitor Time of Possession: 25:59

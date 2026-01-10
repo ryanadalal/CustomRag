@@ -1,0 +1,9 @@
+2016-12-11 00:00:00, San Francisco at NY Jets
+San Francisco: 17
+NY Jets: 23
+Home First Downs: 17
+Visitor First Downs: 24
+Home Net Yards: 364
+Visitor Net Yards: 404
+Home Time of Possession: 24:30
+Visitor Time of Possession: 41:55

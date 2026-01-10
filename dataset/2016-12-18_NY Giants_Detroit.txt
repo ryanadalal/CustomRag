@@ -1,0 +1,9 @@
+2016-12-18 00:00:00, NY Giants at Detroit
+NY Giants: 17
+Detroit: 6
+Home First Downs: 17
+Visitor First Downs: 16
+Home Net Yards: 300
+Visitor Net Yards: 324
+Home Time of Possession: 30:16
+Visitor Time of Possession: 29:44

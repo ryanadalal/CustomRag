@@ -1,0 +1,9 @@
+2016-01-03 00:00:00, Chicago at Detroit
+Chicago: 20
+Detroit: 24
+Home First Downs: 16
+Visitor First Downs: 22
+Home Net Yards: 342
+Visitor Net Yards: 349
+Home Time of Possession: 27:30
+Visitor Time of Possession: 32:30

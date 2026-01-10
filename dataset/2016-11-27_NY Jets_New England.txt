@@ -1,0 +1,9 @@
+2016-11-27 00:00:00, NY Jets at New England
+NY Jets: 17
+New England: 22
+Home First Downs: 16
+Visitor First Downs: 26
+Home Net Yards: 333
+Visitor Net Yards: 377
+Home Time of Possession: 29:24
+Visitor Time of Possession: 30:36

@@ -1,0 +1,9 @@
+2016-11-21 00:00:00, Oakland at Houston
+Oakland: 27
+Houston: 20
+Home First Downs: 16
+Visitor First Downs: 22
+Home Net Yards: 325
+Visitor Net Yards: 354
+Home Time of Possession: 23:33
+Visitor Time of Possession: 36:27

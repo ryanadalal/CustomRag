@@ -1,0 +1,9 @@
+2016-12-18 00:00:00, Arizona at New Orleans
+Arizona: 41
+New Orleans: 48
+Home First Downs: 26
+Visitor First Downs: 33
+Home Net Yards: 425
+Visitor Net Yards: 488
+Home Time of Possession: 22:47
+Visitor Time of Possession: 37:13

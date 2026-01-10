@@ -1,0 +1,9 @@
+2016-09-11 00:00:00, NY Jets at Cincinnati
+NY Jets: 22
+Cincinnati: 23
+Home First Downs: 22
+Visitor First Downs: 18
+Home Net Yards: 340
+Visitor Net Yards: 381
+Home Time of Possession: 34:53
+Visitor Time of Possession: 25:07

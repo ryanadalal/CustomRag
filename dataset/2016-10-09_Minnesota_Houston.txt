@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Minnesota at Houston
+Minnesota: 31
+Houston: 13
+Home First Downs: 22
+Visitor First Downs: 16
+Home Net Yards: 351
+Visitor Net Yards: 214
+Home Time of Possession: 37:28
+Visitor Time of Possession: 22:32

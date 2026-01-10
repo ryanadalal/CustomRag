@@ -1,0 +1,9 @@
+2016-12-04 00:00:00, Atlanta at Kansas City
+Atlanta: 28
+Kansas City: 29
+Home First Downs: 32
+Visitor First Downs: 17
+Home Net Yards: 418
+Visitor Net Yards: 389
+Home Time of Possession: 31:52
+Visitor Time of Possession: 28:08

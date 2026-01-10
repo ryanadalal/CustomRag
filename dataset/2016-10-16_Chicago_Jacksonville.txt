@@ -1,0 +1,9 @@
+2016-10-16 00:00:00, Chicago at Jacksonville
+Chicago: 16
+Jacksonville: 17
+Home First Downs: 22
+Visitor First Downs: 20
+Home Net Yards: 389
+Visitor Net Yards: 317
+Home Time of Possession: 35:47
+Visitor Time of Possession: 24:13

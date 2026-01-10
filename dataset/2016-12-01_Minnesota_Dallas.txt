@@ -1,0 +1,9 @@
+2016-12-01 00:00:00, Minnesota at Dallas
+Minnesota: 15
+Dallas: 17
+Home First Downs: 21
+Visitor First Downs: 13
+Home Net Yards: 318
+Visitor Net Yards: 264
+Home Time of Possession: 33:17
+Visitor Time of Possession: 26:43

@@ -1,0 +1,9 @@
+2016-10-17 00:00:00, Arizona at NY Jets
+Arizona: 28
+NY Jets: 3
+Home First Downs: 28
+Visitor First Downs: 11
+Home Net Yards: 396
+Visitor Net Yards: 230
+Home Time of Possession: 36:02
+Visitor Time of Possession: 23:58

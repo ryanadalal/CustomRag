@@ -1,0 +1,9 @@
+2016-01-03 00:00:00, Miami at New England
+Miami: 20
+New England: 10
+Home First Downs: 20
+Visitor First Downs: 12
+Home Net Yards: 438
+Visitor Net Yards: 196
+Home Time of Possession: 31:05
+Visitor Time of Possession: 28:55

@@ -1,0 +1,9 @@
+2016-09-25 00:00:00, Cincinnati at Denver
+Cincinnati: 17
+Denver: 29
+Home First Downs: 20
+Visitor First Downs: 21
+Home Net Yards: 332
+Visitor Net Yards: 355
+Home Time of Possession: 32:06
+Visitor Time of Possession: 27:54

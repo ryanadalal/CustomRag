@@ -1,0 +1,9 @@
+2016-12-22 00:00:00, Philadelphia at NY Giants
+Philadelphia: 24
+NY Giants: 19
+Home First Downs: 15
+Visitor First Downs: 24
+Home Net Yards: 286
+Visitor Net Yards: 470
+Home Time of Possession: 25:56
+Visitor Time of Possession: 34:04

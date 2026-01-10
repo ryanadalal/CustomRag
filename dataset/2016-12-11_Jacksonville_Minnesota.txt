@@ -1,0 +1,9 @@
+2016-12-11 00:00:00, Jacksonville at Minnesota
+Jacksonville: 16
+Minnesota: 25
+Home First Downs: 18
+Visitor First Downs: 22
+Home Net Yards: 315
+Visitor Net Yards: 377
+Home Time of Possession: 28:53
+Visitor Time of Possession: 31:07

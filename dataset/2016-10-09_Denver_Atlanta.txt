@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Denver at Atlanta
+Denver: 16
+Atlanta: 23
+Home First Downs: 18
+Visitor First Downs: 19
+Home Net Yards: 267
+Visitor Net Yards: 372
+Home Time of Possession: 31:08
+Visitor Time of Possession: 28:52

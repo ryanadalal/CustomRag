@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, Houston at Tennessee
+Houston: 27
+Tennessee: 20
+Home First Downs: 21
+Visitor First Downs: 16
+Home Net Yards: 359
+Visitor Net Yards: 320
+Home Time of Possession: 28:18
+Visitor Time of Possession: 31:42

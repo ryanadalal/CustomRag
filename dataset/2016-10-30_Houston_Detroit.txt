@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Houston at Detroit
+Houston: 20
+Detroit: 13
+Home First Downs: 20
+Visitor First Downs: 19
+Home Net Yards: 269
+Visitor Net Yards: 289
+Home Time of Possession: 33:58
+Visitor Time of Possession: 26:02

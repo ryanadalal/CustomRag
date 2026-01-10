@@ -1,0 +1,9 @@
+2016-09-22 00:00:00, New England at Houston
+New England: 27
+Houston: 0
+Home First Downs: 15
+Visitor First Downs: 19
+Home Net Yards: 282
+Visitor Net Yards: 284
+Home Time of Possession: 28:38
+Visitor Time of Possession: 31:22

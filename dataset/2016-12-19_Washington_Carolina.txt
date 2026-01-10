@@ -1,0 +1,9 @@
+2016-12-19 00:00:00, Washington at Carolina
+Washington: 15
+Carolina: 26
+Home First Downs: 18
+Visitor First Downs: 22
+Home Net Yards: 335
+Visitor Net Yards: 438
+Home Time of Possession: 25:21
+Visitor Time of Possession: 34:39

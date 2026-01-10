@@ -1,0 +1,9 @@
+2016-01-03 00:00:00, Carolina at Tampa Bay
+Carolina: 38
+Tampa Bay: 10
+Home First Downs: 23
+Visitor First Downs: 21
+Home Net Yards: 366
+Visitor Net Yards: 386
+Home Time of Possession: 31:50
+Visitor Time of Possession: 28:10

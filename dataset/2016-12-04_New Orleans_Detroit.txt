@@ -1,0 +1,9 @@
+2016-12-04 00:00:00, New Orleans at Detroit
+New Orleans: 13
+Detroit: 28
+Home First Downs: 20
+Visitor First Downs: 24
+Home Net Yards: 369
+Visitor Net Yards: 422
+Home Time of Possession: 23:08
+Visitor Time of Possession: 36:52

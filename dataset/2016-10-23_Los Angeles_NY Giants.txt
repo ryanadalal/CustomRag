@@ -1,0 +1,9 @@
+2016-10-23 00:00:00, Los Angeles at NY Giants
+Los Angeles: 10
+NY Giants: 17
+Home First Downs: 20
+Visitor First Downs: 13
+Home Net Yards: 345
+Visitor Net Yards: 232
+Home Time of Possession: 35:03
+Visitor Time of Possession: 24:57

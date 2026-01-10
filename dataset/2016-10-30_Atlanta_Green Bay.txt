@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Atlanta at Green Bay
+Atlanta: 33
+Green Bay: 32
+Home First Downs: 25
+Visitor First Downs: 24
+Home Net Yards: 367
+Visitor Net Yards: 331
+Home Time of Possession: 28:43
+Visitor Time of Possession: 31:17

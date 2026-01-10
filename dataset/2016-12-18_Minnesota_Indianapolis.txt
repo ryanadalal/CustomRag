@@ -1,0 +1,9 @@
+2016-12-18 00:00:00, Minnesota at Indianapolis
+Minnesota: 6
+Indianapolis: 34
+Home First Downs: 20
+Visitor First Downs: 27
+Home Net Yards: 282
+Visitor Net Yards: 411
+Home Time of Possession: 22:58
+Visitor Time of Possession: 37:02

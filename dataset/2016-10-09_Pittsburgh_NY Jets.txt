@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Pittsburgh at NY Jets
+Pittsburgh: 31
+NY Jets: 13
+Home First Downs: 30
+Visitor First Downs: 16
+Home Net Yards: 436
+Visitor Net Yards: 316
+Home Time of Possession: 31:50
+Visitor Time of Possession: 28:10

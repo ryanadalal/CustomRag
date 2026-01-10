@@ -1,0 +1,9 @@
+2016-12-11 00:00:00, NY Giants at Dallas
+NY Giants: 10
+Dallas: 7
+Home First Downs: 12
+Visitor First Downs: 13
+Home Net Yards: 260
+Visitor Net Yards: 260
+Home Time of Possession: 30:52
+Visitor Time of Possession: 29:08

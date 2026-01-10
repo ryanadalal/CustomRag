@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, Dallas at Baltimore
+Dallas: 27
+Baltimore: 17
+Home First Downs: 27
+Visitor First Downs: 17
+Home Net Yards: 417
+Visitor Net Yards: 368
+Home Time of Possession: 35:39
+Visitor Time of Possession: 24:21

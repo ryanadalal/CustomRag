@@ -1,0 +1,9 @@
+2016-12-04 00:00:00, Arizona at Washington
+Arizona: 31
+Washington: 23
+Home First Downs: 24
+Visitor First Downs: 19
+Home Net Yards: 369
+Visitor Net Yards: 333
+Home Time of Possession: 33:46
+Visitor Time of Possession: 26:14

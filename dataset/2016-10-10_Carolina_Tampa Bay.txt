@@ -1,0 +1,9 @@
+2016-10-10 00:00:00, Carolina at Tampa Bay
+Carolina: 14
+Tampa Bay: 17
+Home First Downs: 20
+Visitor First Downs: 20
+Home Net Yards: 414
+Visitor Net Yards: 315
+Home Time of Possession: 25:51
+Visitor Time of Possession: 34:09

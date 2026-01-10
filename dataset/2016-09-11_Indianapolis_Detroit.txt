@@ -1,0 +1,9 @@
+2016-09-11 00:00:00, Indianapolis at Detroit
+Indianapolis: 35
+Detroit: 39
+Home First Downs: 25
+Visitor First Downs: 28
+Home Net Yards: 450
+Visitor Net Yards: 448
+Home Time of Possession: 29:24
+Visitor Time of Possession: 30:36

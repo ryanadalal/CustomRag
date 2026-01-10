@@ -1,0 +1,9 @@
+2016-09-25 00:00:00, Miami at Cleveland
+Miami: 30
+Cleveland: 24
+Home First Downs: 23
+Visitor First Downs: 21
+Home Net Yards: 426
+Visitor Net Yards: 430
+Home Time of Possession: 29:12
+Visitor Time of Possession: 37:22

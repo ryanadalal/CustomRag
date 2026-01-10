@@ -1,0 +1,9 @@
+2016-12-25 00:00:00, Kansas City at Denver
+Kansas City: 33
+Denver: 10
+Home First Downs: 23
+Visitor First Downs: 14
+Home Net Yards: 484
+Visitor Net Yards: 246
+Home Time of Possession: 38:01
+Visitor Time of Possession: 21:59

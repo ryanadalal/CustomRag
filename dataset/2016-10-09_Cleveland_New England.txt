@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Cleveland at New England
+Cleveland: 13
+New England: 33
+Home First Downs: 17
+Visitor First Downs: 24
+Home Net Yards: 262
+Visitor Net Yards: 501
+Home Time of Possession: 25:21
+Visitor Time of Possession: 34:39

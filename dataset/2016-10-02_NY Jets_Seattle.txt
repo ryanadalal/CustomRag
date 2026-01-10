@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, NY Jets at Seattle
+NY Jets: 17
+Seattle: 27
+Home First Downs: 20
+Visitor First Downs: 21
+Home Net Yards: 305
+Visitor Net Yards: 354
+Home Time of Possession: 29:15
+Visitor Time of Possession: 30:45

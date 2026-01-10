@@ -1,0 +1,9 @@
+2016-01-03 00:00:00, San Francisco at St. Louis
+San Francisco: 19
+St. Louis: 16
+Home First Downs: 21
+Visitor First Downs: 21
+Home Net Yards: 458
+Visitor Net Yards: 364
+Home Time of Possession: 33:03
+Visitor Time of Possession: 38:30

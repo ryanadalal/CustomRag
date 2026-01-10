@@ -1,0 +1,9 @@
+2016-09-18 00:00:00, Minnesota at Green Bay
+Minnesota: 17
+Green Bay: 14
+Home First Downs: 15
+Visitor First Downs: 20
+Home Net Yards: 284
+Visitor Net Yards: 263
+Home Time of Possession: 30:18
+Visitor Time of Possession: 29:42

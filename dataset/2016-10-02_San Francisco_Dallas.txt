@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, San Francisco at Dallas
+San Francisco: 17
+Dallas: 24
+Home First Downs: 14
+Visitor First Downs: 26
+Home Net Yards: 295
+Visitor Net Yards: 428
+Home Time of Possession: 23:33
+Visitor Time of Possession: 36:27

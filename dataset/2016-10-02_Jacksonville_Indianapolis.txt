@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, Jacksonville at Indianapolis
+Jacksonville: 30
+Indianapolis: 27
+Home First Downs: 23
+Visitor First Downs: 23
+Home Net Yards: 331
+Visitor Net Yards: 284
+Home Time of Possession: 27:21
+Visitor Time of Possession: 32:39

@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, New England at Buffalo
+New England: 0
+Buffalo: 16
+Home First Downs: 13
+Visitor First Downs: 24
+Home Net Yards: 277
+Visitor Net Yards: 378
+Home Time of Possession: 23:49
+Visitor Time of Possession: 36:11

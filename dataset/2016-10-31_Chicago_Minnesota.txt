@@ -1,0 +1,9 @@
+2016-10-31 00:00:00, Chicago at Minnesota
+Chicago: 20
+Minnesota: 10
+Home First Downs: 19
+Visitor First Downs: 15
+Home Net Yards: 403
+Visitor Net Yards: 258
+Home Time of Possession: 32:41
+Visitor Time of Possession: 27:19

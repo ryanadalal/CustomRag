@@ -1,0 +1,9 @@
+2016-11-27 00:00:00, Buffalo at Jacksonville
+Buffalo: 28
+Jacksonville: 21
+Home First Downs: 15
+Visitor First Downs: 20
+Home Net Yards: 304
+Visitor Net Yards: 301
+Home Time of Possession: 26:25
+Visitor Time of Possession: 33:35

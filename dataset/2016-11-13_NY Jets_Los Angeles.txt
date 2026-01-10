@@ -1,0 +1,9 @@
+2016-11-13 00:00:00, NY Jets at Los Angeles
+NY Jets: 6
+Los Angeles: 9
+Home First Downs: 17
+Visitor First Downs: 16
+Home Net Yards: 296
+Visitor Net Yards: 280
+Home Time of Possession: 25:31
+Visitor Time of Possession: 34:29

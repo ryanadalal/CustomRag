@@ -1,0 +1,9 @@
+2016-11-27 00:00:00, Houston at San Diego
+Houston: 13
+San Diego: 21
+Home First Downs: 22
+Visitor First Downs: 18
+Home Net Yards: 353
+Visitor Net Yards: 302
+Home Time of Possession: 30:01
+Visitor Time of Possession: 29:59

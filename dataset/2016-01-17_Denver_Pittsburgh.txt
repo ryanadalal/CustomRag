@@ -1,0 +1,9 @@
+2016-01-17 00:00:00, Denver at Pittsburgh
+Denver: 23
+Pittsburgh: 16
+Home First Downs: 19
+Visitor First Downs: 16
+Home Net Yards: 324
+Visitor Net Yards: 396
+Home Time of Possession: 31:33
+Visitor Time of Possession: 28:27

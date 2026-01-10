@@ -1,0 +1,9 @@
+2016-09-25 00:00:00, Green Bay at Detroit
+Green Bay: 34
+Detroit: 27
+Home First Downs: 17
+Visitor First Downs: 22
+Home Net Yards: 324
+Visitor Net Yards: 418
+Home Time of Possession: 24:53
+Visitor Time of Possession: 35:07

@@ -1,0 +1,9 @@
+2016-10-16 00:00:00, Buffalo at San Francisco
+Buffalo: 45
+San Francisco: 16
+Home First Downs: 29
+Visitor First Downs: 16
+Home Net Yards: 492
+Visitor Net Yards: 300
+Home Time of Possession: 35:11
+Visitor Time of Possession: 24:49

@@ -1,0 +1,9 @@
+2016-09-29 00:00:00, Cincinnati at Miami
+Cincinnati: 22
+Miami: 7
+Home First Downs: 19
+Visitor First Downs: 8
+Home Net Yards: 362
+Visitor Net Yards: 222
+Home Time of Possession: 38:02
+Visitor Time of Possession: 21:58

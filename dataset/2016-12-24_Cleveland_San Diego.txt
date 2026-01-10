@@ -1,0 +1,9 @@
+2016-12-24 00:00:00, Cleveland at San Diego
+Cleveland: 20
+San Diego: 17
+Home First Downs: 23
+Visitor First Downs: 19
+Home Net Yards: 251
+Visitor Net Yards: 356
+Home Time of Possession: 32:29
+Visitor Time of Possession: 27:31

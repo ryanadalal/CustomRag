@@ -1,0 +1,9 @@
+2016-09-18 00:00:00, NY Giants at New Orleans
+NY Giants: 16
+New Orleans: 13
+Home First Downs: 22
+Visitor First Downs: 16
+Home Net Yards: 417
+Visitor Net Yards: 288
+Home Time of Possession: 34:07
+Visitor Time of Possession: 25:53

@@ -1,0 +1,9 @@
+2016-12-11 00:00:00, Los Angeles at Atlanta
+Los Angeles: 14
+Atlanta: 42
+Home First Downs: 21
+Visitor First Downs: 18
+Home Net Yards: 312
+Visitor Net Yards: 286
+Home Time of Possession: 32:52
+Visitor Time of Possession: 27:08

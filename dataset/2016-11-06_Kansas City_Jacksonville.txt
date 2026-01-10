@@ -1,0 +1,9 @@
+2016-11-06 00:00:00, Kansas City at Jacksonville
+Kansas City: 19
+Jacksonville: 14
+Home First Downs: 10
+Visitor First Downs: 25
+Home Net Yards: 231
+Visitor Net Yards: 449
+Home Time of Possession: 30:21
+Visitor Time of Possession: 29:39

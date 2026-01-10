@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, Los Angeles at Miami
+Los Angeles: 10
+Miami: 14
+Home First Downs: 12
+Visitor First Downs: 17
+Home Net Yards: 227
+Visitor Net Yards: 240
+Home Time of Possession: 31:19
+Visitor Time of Possession: 28:41

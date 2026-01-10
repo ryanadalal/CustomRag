@@ -1,0 +1,9 @@
+2016-12-04 00:00:00, Jacksonville at Denver
+Jacksonville: 10
+Denver: 20
+Home First Downs: 19
+Visitor First Downs: 10
+Home Net Yards: 333
+Visitor Net Yards: 206
+Home Time of Possession: 34:34
+Visitor Time of Possession: 25:26

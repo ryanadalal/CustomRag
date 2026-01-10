@@ -1,0 +1,9 @@
+2016-12-04 00:00:00, Pittsburgh at NY Giants
+Pittsburgh: 24
+NY Giants: 14
+Home First Downs: 20
+Visitor First Downs: 16
+Home Net Yards: 389
+Visitor Net Yards: 234
+Home Time of Possession: 34:08
+Visitor Time of Possession: 25:52

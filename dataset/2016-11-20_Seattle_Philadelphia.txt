@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, Seattle at Philadelphia
+Seattle: 26
+Philadelphia: 15
+Home First Downs: 18
+Visitor First Downs: 20
+Home Net Yards: 439
+Visitor Net Yards: 308
+Home Time of Possession: 28:54
+Visitor Time of Possession: 31:06

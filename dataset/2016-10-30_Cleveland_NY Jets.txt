@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Cleveland at NY Jets
+Cleveland: 28
+NY Jets: 31
+Home First Downs: 22
+Visitor First Downs: 21
+Home Net Yards: 407
+Visitor Net Yards: 393
+Home Time of Possession: 26:19
+Visitor Time of Possession: 33:41

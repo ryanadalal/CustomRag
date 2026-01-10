@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, NY Giants at Chicago
+NY Giants: 22
+Chicago: 16
+Home First Downs: 19
+Visitor First Downs: 17
+Home Net Yards: 329
+Visitor Net Yards: 315
+Home Time of Possession: 29:31
+Visitor Time of Possession: 30:29

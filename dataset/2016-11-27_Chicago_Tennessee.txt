@@ -1,0 +1,9 @@
+2016-11-27 00:00:00, Chicago at Tennessee
+Chicago: 21
+Tennessee: 27
+Home First Downs: 25
+Visitor First Downs: 18
+Home Net Yards: 411
+Visitor Net Yards: 375
+Home Time of Possession: 30:35
+Visitor Time of Possession: 29:25

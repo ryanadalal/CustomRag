@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, Kansas City at Tampa Bay
+Kansas City: 17
+Tampa Bay: 19
+Home First Downs: 19
+Visitor First Downs: 27
+Home Net Yards: 343
+Visitor Net Yards: 442
+Home Time of Possession: 24:42
+Visitor Time of Possession: 35:18

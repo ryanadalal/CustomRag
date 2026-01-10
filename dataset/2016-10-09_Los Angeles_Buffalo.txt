@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Los Angeles at Buffalo
+Los Angeles: 19
+Buffalo: 30
+Home First Downs: 23
+Visitor First Downs: 15
+Home Net Yards: 345
+Visitor Net Yards: 305
+Home Time of Possession: 35:34
+Visitor Time of Possession: 24:26

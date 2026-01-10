@@ -1,0 +1,9 @@
+2016-11-13 00:00:00, New England at Seattle
+New England: 24
+Seattle: 31
+Home First Downs: 25
+Visitor First Downs: 23
+Home Net Yards: 385
+Visitor Net Yards: 420
+Home Time of Possession: 29:35
+Visitor Time of Possession: 30:25

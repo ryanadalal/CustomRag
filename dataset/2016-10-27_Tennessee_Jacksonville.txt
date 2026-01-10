@@ -1,0 +1,9 @@
+2016-10-27 00:00:00, Tennessee at Jacksonville
+Tennessee: 36
+Jacksonville: 22
+Home First Downs: 25
+Visitor First Downs: 27
+Home Net Yards: 494
+Visitor Net Yards: 370
+Home Time of Possession: 34:25
+Visitor Time of Possession: 25:35

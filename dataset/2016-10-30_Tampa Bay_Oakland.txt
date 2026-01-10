@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Tampa Bay at Oakland
+Tampa Bay: 24
+Oakland: 30
+Home First Downs: 18
+Visitor First Downs: 27
+Home Net Yards: 270
+Visitor Net Yards: 626
+Home Time of Possession: 29:03
+Visitor Time of Possession: 44:12

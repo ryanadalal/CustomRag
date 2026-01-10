@@ -1,0 +1,9 @@
+2016-11-03 00:00:00, Tampa Bay at Atlanta
+Tampa Bay: 28
+Atlanta: 43
+Home First Downs: 23
+Visitor First Downs: 31
+Home Net Yards: 396
+Visitor Net Yards: 461
+Home Time of Possession: 26:32
+Visitor Time of Possession: 33:28

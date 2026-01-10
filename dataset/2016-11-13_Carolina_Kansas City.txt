@@ -1,0 +1,9 @@
+2016-11-13 00:00:00, Carolina at Kansas City
+Carolina: 17
+Kansas City: 20
+Home First Downs: 22
+Visitor First Downs: 18
+Home Net Yards: 341
+Visitor Net Yards: 256
+Home Time of Possession: 35:12
+Visitor Time of Possession: 24:48

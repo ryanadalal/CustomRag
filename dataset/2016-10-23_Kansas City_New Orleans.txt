@@ -1,0 +1,9 @@
+2016-10-23 00:00:00, Kansas City at New Orleans
+Kansas City: 27
+New Orleans: 21
+Home First Downs: 20
+Visitor First Downs: 27
+Home Net Yards: 326
+Visitor Net Yards: 463
+Home Time of Possession: 27:22
+Visitor Time of Possession: 32:38

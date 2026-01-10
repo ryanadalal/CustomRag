@@ -1,0 +1,9 @@
+2016-09-18 00:00:00, Los Angeles at Seattle
+Los Angeles: 9
+Seattle: 3
+Home First Downs: 17
+Visitor First Downs: 17
+Home Net Yards: 283
+Visitor Net Yards: 306
+Home Time of Possession: 29:57
+Visitor Time of Possession: 30:03

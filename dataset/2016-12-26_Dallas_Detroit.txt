@@ -1,0 +1,9 @@
+2016-12-26 00:00:00, Dallas at Detroit
+Dallas: 42
+Detroit: 21
+Home First Downs: 23
+Visitor First Downs: 23
+Home Net Yards: 375
+Visitor Net Yards: 319
+Home Time of Possession: 29:17
+Visitor Time of Possession: 30:43

@@ -1,0 +1,9 @@
+2016-01-09 00:00:00, Cincinnati at Pittsburgh
+Cincinnati: 16
+Pittsburgh: 18
+Home First Downs: 19
+Visitor First Downs: 21
+Home Net Yards: 279
+Visitor Net Yards: 369
+Home Time of Possession: 29:23
+Visitor Time of Possession: 30:37

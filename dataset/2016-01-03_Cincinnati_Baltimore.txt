@@ -1,0 +1,9 @@
+2016-01-03 00:00:00, Cincinnati at Baltimore
+Cincinnati: 24
+Baltimore: 16
+Home First Downs: 17
+Visitor First Downs: 22
+Home Net Yards: 292
+Visitor Net Yards: 341
+Home Time of Possession: 30:47
+Visitor Time of Possession: 29:13

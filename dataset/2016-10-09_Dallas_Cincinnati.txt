@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Dallas at Cincinnati
+Dallas: 28
+Cincinnati: 14
+Home First Downs: 21
+Visitor First Downs: 27
+Home Net Yards: 402
+Visitor Net Yards: 345
+Home Time of Possession: 27:43
+Visitor Time of Possession: 32:17

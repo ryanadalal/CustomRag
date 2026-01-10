@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Denver at San Diego
+Denver: 27
+San Diego: 19
+Home First Downs: 15
+Visitor First Downs: 21
+Home Net Yards: 324
+Visitor Net Yards: 369
+Home Time of Possession: 26:52
+Visitor Time of Possession: 33:08

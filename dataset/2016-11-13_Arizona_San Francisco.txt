@@ -1,0 +1,9 @@
+2016-11-13 00:00:00, Arizona at San Francisco
+Arizona: 23
+San Francisco: 20
+Home First Downs: 26
+Visitor First Downs: 15
+Home Net Yards: 443
+Visitor Net Yards: 281
+Home Time of Possession: 32:18
+Visitor Time of Possession: 27:42

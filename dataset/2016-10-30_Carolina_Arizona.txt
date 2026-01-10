@@ -1,0 +1,9 @@
+2016-10-30 00:00:00, Carolina at Arizona
+Carolina: 30
+Arizona: 20
+Home First Downs: 19
+Visitor First Downs: 22
+Home Net Yards: 349
+Visitor Net Yards: 340
+Home Time of Possession: 30:48
+Visitor Time of Possession: 29:12

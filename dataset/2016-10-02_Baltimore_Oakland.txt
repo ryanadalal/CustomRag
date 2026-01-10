@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, Baltimore at Oakland
+Baltimore: 27
+Oakland: 28
+Home First Downs: 25
+Visitor First Downs: 13
+Home Net Yards: 412
+Visitor Net Yards: 261
+Home Time of Possession: 34:44
+Visitor Time of Possession: 25:16

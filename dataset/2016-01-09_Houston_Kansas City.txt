@@ -1,0 +1,9 @@
+2016-01-09 00:00:00, Houston at Kansas City
+Houston: 0
+Kansas City: 30
+Home First Downs: 14
+Visitor First Downs: 18
+Home Net Yards: 226
+Visitor Net Yards: 314
+Home Time of Possession: 25:35
+Visitor Time of Possession: 34:25

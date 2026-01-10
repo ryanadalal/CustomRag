@@ -1,0 +1,9 @@
+2016-10-02 00:00:00, Washington at Cleveland
+Washington: 31
+Cleveland: 20
+Home First Downs: 24
+Visitor First Downs: 26
+Home Net Yards: 301
+Visitor Net Yards: 380
+Home Time of Possession: 31:03
+Visitor Time of Possession: 28:57

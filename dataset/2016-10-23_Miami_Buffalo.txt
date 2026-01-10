@@ -1,0 +1,9 @@
+2016-10-23 00:00:00, Miami at Buffalo
+Miami: 28
+Buffalo: 25
+Home First Downs: 26
+Visitor First Downs: 16
+Home Net Yards: 454
+Visitor Net Yards: 267
+Home Time of Possession: 37:02
+Visitor Time of Possession: 22:58

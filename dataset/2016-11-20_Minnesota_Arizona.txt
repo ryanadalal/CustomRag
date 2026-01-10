@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, Minnesota at Arizona
+Minnesota: 30
+Arizona: 24
+Home First Downs: 16
+Visitor First Downs: 24
+Home Net Yards: 217
+Visitor Net Yards: 290
+Home Time of Possession: 28:58
+Visitor Time of Possession: 31:02

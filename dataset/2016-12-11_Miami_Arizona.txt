@@ -1,0 +1,9 @@
+2016-12-11 00:00:00, Miami at Arizona
+Miami: 26
+Arizona: 23
+Home First Downs: 15
+Visitor First Downs: 21
+Home Net Yards: 314
+Visitor Net Yards: 300
+Home Time of Possession: 30:04
+Visitor Time of Possession: 29:56

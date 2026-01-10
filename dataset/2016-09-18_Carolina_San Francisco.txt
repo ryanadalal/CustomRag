@@ -1,0 +1,9 @@
+2016-09-18 00:00:00, Carolina at San Francisco
+Carolina: 46
+San Francisco: 27
+Home First Downs: 26
+Visitor First Downs: 16
+Home Net Yards: 529
+Visitor Net Yards: 302
+Home Time of Possession: 35:54
+Visitor Time of Possession: 24:06

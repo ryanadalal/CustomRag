@@ -1,0 +1,9 @@
+2016-11-20 00:00:00, Detroit at Jacksonville
+Detroit: 26
+Jacksonville: 19
+Home First Downs: 14
+Visitor First Downs: 16
+Home Net Yards: 277
+Visitor Net Yards: 285
+Home Time of Possession: 27:05
+Visitor Time of Possession: 32:55

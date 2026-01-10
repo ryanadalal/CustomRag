@@ -1,0 +1,9 @@
+2016-12-18 00:00:00, Atlanta at San Francisco
+Atlanta: 41
+San Francisco: 13
+Home First Downs: 29
+Visitor First Downs: 15
+Home Net Yards: 550
+Visitor Net Yards: 272
+Home Time of Possession: 36:01
+Visitor Time of Possession: 23:59

@@ -1,0 +1,9 @@
+2016-09-18 00:00:00, Denver at Indianapolis
+Denver: 34
+Indianapolis: 20
+Home First Downs: 24
+Visitor First Downs: 19
+Home Net Yards: 400
+Visitor Net Yards: 253
+Home Time of Possession: 30:41
+Visitor Time of Possession: 29:19

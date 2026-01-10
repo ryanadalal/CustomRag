@@ -1,0 +1,9 @@
+2016-10-09 00:00:00, Miami at Tennessee
+Miami: 17
+Tennessee: 30
+Home First Downs: 8
+Visitor First Downs: 23
+Home Net Yards: 200
+Visitor Net Yards: 398
+Home Time of Possession: 23:16
+Visitor Time of Possession: 36:44

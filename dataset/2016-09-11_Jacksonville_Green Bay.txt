@@ -1,0 +1,9 @@
+2016-09-11 00:00:00, Jacksonville at Green Bay
+Jacksonville: 23
+Green Bay: 27
+Home First Downs: 20
+Visitor First Downs: 18
+Home Net Yards: 348
+Visitor Net Yards: 294
+Home Time of Possession: 31:23
+Visitor Time of Possession: 28:37

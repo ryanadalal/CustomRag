@@ -1,0 +1,9 @@
+2016-12-18 00:00:00, Buffalo at Cleveland
+Buffalo: 33
+Cleveland: 13
+Home First Downs: 29
+Visitor First Downs: 16
+Home Net Yards: 451
+Visitor Net Yards: 269
+Home Time of Possession: 34:19
+Visitor Time of Possession: 25:41
