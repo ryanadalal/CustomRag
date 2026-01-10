@@ -1,9 +1,0 @@
-2016-09-18 00:00:00, Pittsburgh at Cincinnati
-Pittsburgh: 24
-Cincinnati: 16
-Home First Downs: 19
-Visitor First Downs: 21
-Home Net Yards: 374
-Visitor Net Yards: 412
-Home Time of Possession: 32:55
-Visitor Time of Possession: 27:05

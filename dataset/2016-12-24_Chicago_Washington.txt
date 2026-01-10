@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Chicago at Washington
-Chicago: 21
-Washington: 41
-Home First Downs: 31
-Visitor First Downs: 21
-Home Net Yards: 458
-Visitor Net Yards: 478
-Home Time of Possession: 27:25
-Visitor Time of Possession: 32:35

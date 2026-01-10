@@ -1,9 +1,0 @@
-2016-09-18 00:00:00, Detroit at Tennessee
-Detroit: 15
-Tennessee: 16
-Home First Downs: 22
-Visitor First Downs: 22
-Home Net Yards: 375
-Visitor Net Yards: 363
-Home Time of Possession: 29:09
-Visitor Time of Possession: 30:51

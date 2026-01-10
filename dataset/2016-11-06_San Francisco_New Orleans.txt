@@ -1,9 +1,0 @@
-2016-11-06 00:00:00, San Francisco at New Orleans
-San Francisco: 23
-New Orleans: 41
-Home First Downs: 19
-Visitor First Downs: 29
-Home Net Yards: 486
-Visitor Net Yards: 571
-Home Time of Possession: 21:07
-Visitor Time of Possession: 38:53

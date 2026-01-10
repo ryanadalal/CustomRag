@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Green Bay at Minnesota
-Green Bay: 38
-Minnesota: 25
-Home First Downs: 19
-Visitor First Downs: 22
-Home Net Yards: 348
-Visitor Net Yards: 446
-Home Time of Possession: 28:59
-Visitor Time of Possession: 31:01

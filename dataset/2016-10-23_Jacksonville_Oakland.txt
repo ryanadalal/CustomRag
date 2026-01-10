@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, Jacksonville at Oakland
-Jacksonville: 16
-Oakland: 33
-Home First Downs: 19
-Visitor First Downs: 21
-Home Net Yards: 344
-Visitor Net Yards: 344
-Home Time of Possession: 26:33
-Visitor Time of Possession: 33:27

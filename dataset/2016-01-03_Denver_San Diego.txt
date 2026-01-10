@@ -1,9 +1,0 @@
-2016-01-03 00:00:00, Denver at San Diego
-Denver: 27
-San Diego: 20
-Home First Downs: 21
-Visitor First Downs: 15
-Home Net Yards: 503
-Visitor Net Yards: 317
-Home Time of Possession: 25:28
-Visitor Time of Possession: 34:32

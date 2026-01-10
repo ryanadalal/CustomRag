@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Los Angeles at San Francisco
-Los Angeles: 21
-San Francisco: 22
-Home First Downs: 13
-Visitor First Downs: 21
-Home Net Yards: 177
-Visitor Net Yards: 323
-Home Time of Possession: 28:57
-Visitor Time of Possession: 31:03

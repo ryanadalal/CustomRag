@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, San Diego at Tampa Bay
-San Diego: 21
-Tampa Bay: 28
-Home First Downs: 18
-Visitor First Downs: 20
-Home Net Yards: 330
-Visitor Net Yards: 349
-Home Time of Possession: 28:19
-Visitor Time of Possession: 31:41

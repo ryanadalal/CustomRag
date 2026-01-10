@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, Green Bay at Houston
-Green Bay: 21
-Houston: 13
-Home First Downs: 16
-Visitor First Downs: 17
-Home Net Yards: 309
-Visitor Net Yards: 307
-Home Time of Possession: 28:29
-Visitor Time of Possession: 31:31

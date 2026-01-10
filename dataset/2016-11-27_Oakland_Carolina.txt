@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, Oakland at Carolina
-Oakland: 35
-Carolina: 32
-Home First Downs: 22
-Visitor First Downs: 19
-Home Net Yards: 366
-Visitor Net Yards: 358
-Home Time of Possession: 33:37
-Visitor Time of Possession: 26:23

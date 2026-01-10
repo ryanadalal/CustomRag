@@ -1,9 +1,0 @@
-2016-10-20 00:00:00, Green Bay at Chicago
-Green Bay: 26
-Chicago: 10
-Home First Downs: 32
-Visitor First Downs: 13
-Home Net Yards: 406
-Visitor Net Yards: 189
-Home Time of Possession: 39:36
-Visitor Time of Possession: 20:24

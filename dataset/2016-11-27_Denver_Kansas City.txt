@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, Denver at Kansas City
-Denver: 27
-Kansas City: 30
-Home First Downs: 21
-Visitor First Downs: 23
-Home Net Yards: 464
-Visitor Net Yards: 273
-Home Time of Possession: 37:19
-Visitor Time of Possession: 37:39

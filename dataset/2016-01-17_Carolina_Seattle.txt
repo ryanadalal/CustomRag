@@ -1,9 +1,0 @@
-2016-01-17 00:00:00, Carolina at Seattle
-Carolina: 31
-Seattle: 24
-Home First Downs: 19
-Visitor First Downs: 23
-Home Net Yards: 295
-Visitor Net Yards: 403
-Home Time of Possession: 35:38
-Visitor Time of Possession: 24:22

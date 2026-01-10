@@ -1,9 +1,0 @@
-2016-09-12 00:00:00, Washington at Pittsburgh
-Washington: 16
-Pittsburgh: 38
-Home First Downs: 18
-Visitor First Downs: 23
-Home Net Yards: 384
-Visitor Net Yards: 437
-Home Time of Possession: 26:42
-Visitor Time of Possession: 33:18

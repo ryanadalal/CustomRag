@@ -1,9 +1,0 @@
-2016-10-30 00:00:00, Buffalo at New England
-Buffalo: 25
-New England: 41
-Home First Downs: 25
-Visitor First Downs: 23
-Home Net Yards: 376
-Visitor Net Yards: 357
-Home Time of Possession: 30:09
-Visitor Time of Possession: 29:51

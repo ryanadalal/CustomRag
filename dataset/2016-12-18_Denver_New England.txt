@@ -1,9 +1,0 @@
-2016-12-18 00:00:00, Denver at New England
-Denver: 3
-New England: 16
-Home First Downs: 15
-Visitor First Downs: 20
-Home Net Yards: 309
-Visitor Net Yards: 313
-Home Time of Possession: 26:24
-Visitor Time of Possession: 33:36

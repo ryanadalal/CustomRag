@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, Baltimore at Miami
-Baltimore: 38
-Miami: 6
-Home First Downs: 28
-Visitor First Downs: 16
-Home Net Yards: 496
-Visitor Net Yards: 277
-Home Time of Possession: 29:14
-Visitor Time of Possession: 30:46

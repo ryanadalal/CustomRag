@@ -1,9 +1,0 @@
-2016-12-18 00:00:00, Kansas City at Tennessee
-Kansas City: 17
-Tennessee: 19
-Home First Downs: 13
-Visitor First Downs: 21
-Home Net Yards: 316
-Visitor Net Yards: 389
-Home Time of Possession: 29:25
-Visitor Time of Possession: 30:35

@@ -1,9 +1,0 @@
-2016-10-30 00:00:00, Cincinnati at Washington
-Cincinnati: 27
-Washington: 27
-Home First Downs: 35
-Visitor First Downs: 30
-Home Net Yards: 415
-Visitor Net Yards: 546
-Home Time of Possession: 35:18
-Visitor Time of Possession: 39:42

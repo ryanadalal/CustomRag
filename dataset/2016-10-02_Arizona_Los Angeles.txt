@@ -1,9 +1,0 @@
-2016-10-02 00:00:00, Arizona at Los Angeles
-Arizona: 13
-Los Angeles: 17
-Home First Downs: 26
-Visitor First Downs: 12
-Home Net Yards: 420
-Visitor Net Yards: 288
-Home Time of Possession: 32:09
-Visitor Time of Possession: 27:51

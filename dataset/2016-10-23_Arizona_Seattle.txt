@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, Arizona at Seattle
-Arizona: 6
-Seattle: 6
-Home First Downs: 23
-Visitor First Downs: 11
-Home Net Yards: 443
-Visitor Net Yards: 257
-Home Time of Possession: 46:21
-Visitor Time of Possession: 28:39

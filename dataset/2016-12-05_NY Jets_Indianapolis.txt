@@ -1,9 +1,0 @@
-2016-12-05 00:00:00, NY Jets at Indianapolis
-NY Jets: 10
-Indianapolis: 41
-Home First Downs: 13
-Visitor First Downs: 27
-Home Net Yards: 250
-Visitor Net Yards: 421
-Home Time of Possession: 21:36
-Visitor Time of Possession: 38:24

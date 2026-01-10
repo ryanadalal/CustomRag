@@ -1,9 +1,0 @@
-2016-02-07 00:00:00, Denver at Carolina
-Denver: 24
-Carolina: 10
-Home First Downs: 11
-Visitor First Downs: 21
-Home Net Yards: 194
-Visitor Net Yards: 315
-Home Time of Possession: 27:13
-Visitor Time of Possession: 32:47

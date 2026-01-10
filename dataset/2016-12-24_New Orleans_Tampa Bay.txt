@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, New Orleans at Tampa Bay
-New Orleans: 31
-Tampa Bay: 24
-Home First Downs: 25
-Visitor First Downs: 23
-Home Net Yards: 417
-Visitor Net Yards: 349
-Home Time of Possession: 31:36
-Visitor Time of Possession: 28:24

@@ -1,9 +1,0 @@
-2016-11-20 00:00:00, Washington at Green Bay
-Washington: 42
-Green Bay: 24
-Home First Downs: 21
-Visitor First Downs: 19
-Home Net Yards: 515
-Visitor Net Yards: 424
-Home Time of Possession: 29:37
-Visitor Time of Possession: 30:23

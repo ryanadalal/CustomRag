@@ -1,9 +1,0 @@
-2016-01-16 00:00:00, New England at Kansas City
-New England: 27
-Kansas City: 20
-Home First Downs: 21
-Visitor First Downs: 27
-Home Net Yards: 340
-Visitor Net Yards: 378
-Home Time of Possession: 22:09
-Visitor Time of Possession: 37:51

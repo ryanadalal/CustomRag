@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, Chicago at San Francisco
-Chicago: 26
-San Francisco: 6
-Home First Downs: 19
-Visitor First Downs: 10
-Home Net Yards: 326
-Visitor Net Yards: 147
-Home Time of Possession: 31:18
-Visitor Time of Possession: 28:42

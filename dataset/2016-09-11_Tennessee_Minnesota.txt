@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Tennessee at Minnesota
-Tennessee: 16
-Minnesota: 25
-Home First Downs: 19
-Visitor First Downs: 15
-Home Net Yards: 316
-Visitor Net Yards: 301
-Home Time of Possession: 30:25
-Visitor Time of Possession: 29:35

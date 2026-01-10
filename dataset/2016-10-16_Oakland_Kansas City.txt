@@ -1,9 +1,0 @@
-2016-10-16 00:00:00, Oakland at Kansas City
-Oakland: 10
-Kansas City: 26
-Home First Downs: 16
-Visitor First Downs: 22
-Home Net Yards: 285
-Visitor Net Yards: 406
-Home Time of Possession: 23:15
-Visitor Time of Possession: 36:45

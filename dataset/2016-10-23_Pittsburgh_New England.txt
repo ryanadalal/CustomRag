@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, Pittsburgh at New England
-Pittsburgh: 16
-New England: 27
-Home First Downs: 17
-Visitor First Downs: 21
-Home Net Yards: 375
-Visitor Net Yards: 362
-Home Time of Possession: 32:29
-Visitor Time of Possession: 27:31

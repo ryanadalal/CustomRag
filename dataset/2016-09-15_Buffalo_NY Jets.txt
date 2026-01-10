@@ -1,9 +1,0 @@
-2016-09-15 00:00:00, Buffalo at NY Jets
-Buffalo: 31
-NY Jets: 37
-Home First Downs: 16
-Visitor First Downs: 28
-Home Net Yards: 393
-Visitor Net Yards: 493
-Home Time of Possession: 20:48
-Visitor Time of Possession: 39:12

@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Seattle at Miami
-Seattle: 12
-Miami: 10
-Home First Downs: 21
-Visitor First Downs: 11
-Home Net Yards: 352
-Visitor Net Yards: 214
-Home Time of Possession: 34:32
-Visitor Time of Possession: 25:28

@@ -1,9 +1,0 @@
-2016-12-08 00:00:00, Kansas City at Oakland
-Kansas City: 21
-Oakland: 13
-Home First Downs: 14
-Visitor First Downs: 18
-Home Net Yards: 323
-Visitor Net Yards: 244
-Home Time of Possession: 28:15
-Visitor Time of Possession: 31:45

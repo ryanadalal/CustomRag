@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, New Orleans at Los Angeles
-New Orleans: 49
-Los Angeles: 21
-Home First Downs: 27
-Visitor First Downs: 13
-Home Net Yards: 555
-Visitor Net Yards: 247
-Home Time of Possession: 35:56
-Visitor Time of Possession: 24:04

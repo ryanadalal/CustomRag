@@ -1,9 +1,0 @@
-2016-11-06 00:00:00, Cleveland at Dallas
-Cleveland: 10
-Dallas: 35
-Home First Downs: 13
-Visitor First Downs: 29
-Home Net Yards: 222
-Visitor Net Yards: 423
-Home Time of Possession: 20:21
-Visitor Time of Possession: 39:39

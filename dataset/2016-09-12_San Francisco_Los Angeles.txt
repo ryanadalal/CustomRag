@@ -1,9 +1,0 @@
-2016-09-12 00:00:00, San Francisco at Los Angeles
-San Francisco: 28
-Los Angeles: 0
-Home First Downs: 28
-Visitor First Downs: 10
-Home Net Yards: 320
-Visitor Net Yards: 185
-Home Time of Possession: 32:10
-Visitor Time of Possession: 27:50

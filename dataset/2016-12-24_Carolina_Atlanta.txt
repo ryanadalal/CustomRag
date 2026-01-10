@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Carolina at Atlanta
-Carolina: 16
-Atlanta: 33
-Home First Downs: 17
-Visitor First Downs: 21
-Home Net Yards: 302
-Visitor Net Yards: 408
-Home Time of Possession: 27:15
-Visitor Time of Possession: 32:45

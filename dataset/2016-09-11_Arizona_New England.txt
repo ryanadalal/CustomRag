@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Arizona at New England
-Arizona: 21
-New England: 23
-Home First Downs: 21
-Visitor First Downs: 19
-Home Net Yards: 344
-Visitor Net Yards: 363
-Home Time of Possession: 26:01
-Visitor Time of Possession: 33:59

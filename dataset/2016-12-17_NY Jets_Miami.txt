@@ -1,9 +1,0 @@
-2016-12-17 00:00:00, NY Jets at Miami
-NY Jets: 13
-Miami: 34
-Home First Downs: 20
-Visitor First Downs: 13
-Home Net Yards: 360
-Visitor Net Yards: 303
-Home Time of Possession: 32:32
-Visitor Time of Possession: 27:28

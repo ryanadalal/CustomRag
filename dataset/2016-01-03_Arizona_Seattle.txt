@@ -1,9 +1,0 @@
-2016-01-03 00:00:00, Arizona at Seattle
-Arizona: 6
-Seattle: 36
-Home First Downs: 16
-Visitor First Downs: 22
-Home Net Yards: 232
-Visitor Net Yards: 354
-Home Time of Possession: 23:23
-Visitor Time of Possession: 36:37

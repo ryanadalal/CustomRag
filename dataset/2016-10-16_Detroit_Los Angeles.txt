@@ -1,9 +1,0 @@
-2016-10-16 00:00:00, Detroit at Los Angeles
-Detroit: 31
-Los Angeles: 28
-Home First Downs: 20
-Visitor First Downs: 23
-Home Net Yards: 348
-Visitor Net Yards: 387
-Home Time of Possession: 32:12
-Visitor Time of Possession: 27:48

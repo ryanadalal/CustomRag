@@ -1,9 +1,0 @@
-2016-11-20 00:00:00, San Francisco at New England
-San Francisco: 17
-New England: 30
-Home First Downs: 20
-Visitor First Downs: 28
-Home Net Yards: 299
-Visitor Net Yards: 444
-Home Time of Possession: 30:43
-Visitor Time of Possession: 29:17

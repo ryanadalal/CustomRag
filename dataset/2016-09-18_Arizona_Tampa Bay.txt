@@ -1,9 +1,0 @@
-2016-09-18 00:00:00, Arizona at Tampa Bay
-Arizona: 40
-Tampa Bay: 7
-Home First Downs: 20
-Visitor First Downs: 21
-Home Net Yards: 416
-Visitor Net Yards: 306
-Home Time of Possession: 29:03
-Visitor Time of Possession: 30:57

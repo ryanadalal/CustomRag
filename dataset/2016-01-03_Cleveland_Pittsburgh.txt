@@ -1,9 +1,0 @@
-2016-01-03 00:00:00, Cleveland at Pittsburgh
-Cleveland: 12
-Pittsburgh: 28
-Home First Downs: 22
-Visitor First Downs: 16
-Home Net Yards: 263
-Visitor Net Yards: 379
-Home Time of Possession: 33:57
-Visitor Time of Possession: 26:03

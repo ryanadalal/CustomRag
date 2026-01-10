@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Baltimore at Buffalo
-Baltimore: 13
-Buffalo: 7
-Home First Downs: 18
-Visitor First Downs: 11
-Home Net Yards: 308
-Visitor Net Yards: 160
-Home Time of Possession: 32:53
-Visitor Time of Possession: 27:07

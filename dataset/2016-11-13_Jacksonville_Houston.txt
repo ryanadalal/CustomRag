@@ -1,9 +1,0 @@
-2016-11-13 00:00:00, Jacksonville at Houston
-Jacksonville: 21
-Houston: 24
-Home First Downs: 23
-Visitor First Downs: 16
-Home Net Yards: 327
-Visitor Net Yards: 273
-Home Time of Possession: 32:10
-Visitor Time of Possession: 27:50

@@ -1,9 +1,0 @@
-2016-10-16 00:00:00, New England at Cincinnati
-New England: 35
-Cincinnati: 17
-Home First Downs: 25
-Visitor First Downs: 20
-Home Net Yards: 437
-Visitor Net Yards: 357
-Home Time of Possession: 27:57
-Visitor Time of Possession: 32:03

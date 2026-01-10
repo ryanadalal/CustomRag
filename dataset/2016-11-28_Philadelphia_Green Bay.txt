@@ -1,9 +1,0 @@
-2016-11-28 00:00:00, Philadelphia at Green Bay
-Philadelphia: 13
-Green Bay: 27
-Home First Downs: 20
-Visitor First Downs: 25
-Home Net Yards: 292
-Visitor Net Yards: 387
-Home Time of Possession: 24:37
-Visitor Time of Possession: 35:23

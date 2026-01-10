@@ -1,9 +1,0 @@
-2016-09-18 00:00:00, Washington at Dallas
-Washington: 23
-Dallas: 27
-Home First Downs: 24
-Visitor First Downs: 24
-Home Net Yards: 432
-Visitor Net Yards: 380
-Home Time of Possession: 27:09
-Visitor Time of Possession: 32:51

@@ -1,9 +1,0 @@
-2016-09-25 00:00:00, Carolina at Minnesota
-Carolina: 10
-Minnesota: 22
-Home First Downs: 18
-Visitor First Downs: 13
-Home Net Yards: 306
-Visitor Net Yards: 211
-Home Time of Possession: 34:52
-Visitor Time of Possession: 25:08

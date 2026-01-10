@@ -1,9 +1,0 @@
-2016-01-10 00:00:00, Minnesota at Seattle
-Minnesota: 9
-Seattle: 10
-Home First Downs: 14
-Visitor First Downs: 13
-Home Net Yards: 183
-Visitor Net Yards: 226
-Home Time of Possession: 32:26
-Visitor Time of Possession: 27:34

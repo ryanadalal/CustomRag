@@ -1,9 +1,0 @@
-2016-10-09 00:00:00, Oakland at San Diego
-Oakland: 34
-San Diego: 31
-Home First Downs: 20
-Visitor First Downs: 17
-Home Net Yards: 389
-Visitor Net Yards: 423
-Home Time of Possession: 36:18
-Visitor Time of Possession: 23:42

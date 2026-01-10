@@ -1,9 +1,0 @@
-2016-11-20 00:00:00, Cincinnati at Buffalo
-Cincinnati: 12
-Buffalo: 16
-Home First Downs: 23
-Visitor First Downs: 20
-Home Net Yards: 300
-Visitor Net Yards: 342
-Home Time of Possession: 27:49
-Visitor Time of Possession: 32:11

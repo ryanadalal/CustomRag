@@ -1,9 +1,0 @@
-2016-11-07 00:00:00, Seattle at Buffalo
-Seattle: 31
-Buffalo: 25
-Home First Downs: 19
-Visitor First Downs: 30
-Home Net Yards: 278
-Visitor Net Yards: 425
-Home Time of Possession: 19:43
-Visitor Time of Possession: 40:17

@@ -1,9 +1,0 @@
-2016-11-13 00:00:00, Washington at Minnesota
-Washington: 26
-Minnesota: 20
-Home First Downs: 23
-Visitor First Downs: 22
-Home Net Yards: 388
-Visitor Net Yards: 331
-Home Time of Possession: 29:56
-Visitor Time of Possession: 30:04

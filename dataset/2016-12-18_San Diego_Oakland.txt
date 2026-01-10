@@ -1,9 +1,0 @@
-2016-12-18 00:00:00, San Diego at Oakland
-San Diego: 16
-Oakland: 19
-Home First Downs: 14
-Visitor First Downs: 18
-Home Net Yards: 263
-Visitor Net Yards: 345
-Home Time of Possession: 27:43
-Visitor Time of Possession: 32:17

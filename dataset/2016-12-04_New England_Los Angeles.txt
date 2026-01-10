@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, New England at Los Angeles
-New England: 26
-Los Angeles: 10
-Home First Downs: 20
-Visitor First Downs: 7
-Home Net Yards: 402
-Visitor Net Yards: 162
-Home Time of Possession: 37:57
-Visitor Time of Possession: 22:03

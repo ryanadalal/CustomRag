@@ -1,9 +1,0 @@
-2016-10-16 00:00:00, Seattle at Atlanta
-Seattle: 26
-Atlanta: 24
-Home First Downs: 22
-Visitor First Downs: 22
-Home Net Yards: 333
-Visitor Net Yards: 362
-Home Time of Possession: 30:09
-Visitor Time of Possession: 29:51

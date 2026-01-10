@@ -1,9 +1,0 @@
-2016-11-06 00:00:00, Green Bay at Indianapolis
-Green Bay: 26
-Indianapolis: 31
-Home First Downs: 25
-Visitor First Downs: 22
-Home Net Yards: 405
-Visitor Net Yards: 355
-Home Time of Possession: 29:57
-Visitor Time of Possession: 30:03

@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Philadelphia at Cleveland
-Philadelphia: 29
-Cleveland: 10
-Home First Downs: 23
-Visitor First Downs: 14
-Home Net Yards: 403
-Visitor Net Yards: 288
-Home Time of Possession: 39:20
-Visitor Time of Possession: 20:40

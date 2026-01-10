@@ -1,9 +1,0 @@
-2016-09-08 00:00:00, Denver at Carolina
-Denver: 21
-Carolina: 20
-Home First Downs: 21
-Visitor First Downs: 21
-Home Net Yards: 307
-Visitor Net Yards: 333
-Home Time of Possession: 27:41
-Visitor Time of Possession: 32:19

@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, Cincinnati at Philadelphia
-Cincinnati: 32
-Philadelphia: 14
-Home First Downs: 21
-Visitor First Downs: 22
-Home Net Yards: 412
-Visitor Net Yards: 359
-Home Time of Possession: 28:02
-Visitor Time of Possession: 31:58

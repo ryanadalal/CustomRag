@@ -1,9 +1,0 @@
-2016-09-19 00:00:00, Chicago at Philadelphia
-Chicago: 14
-Philadelphia: 29
-Home First Downs: 16
-Visitor First Downs: 21
-Home Net Yards: 284
-Visitor Net Yards: 280
-Home Time of Possession: 23:55
-Visitor Time of Possession: 36:05

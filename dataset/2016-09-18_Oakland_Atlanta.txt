@@ -1,9 +1,0 @@
-2016-09-18 00:00:00, Oakland at Atlanta
-Oakland: 28
-Atlanta: 35
-Home First Downs: 29
-Visitor First Downs: 27
-Home Net Yards: 454
-Visitor Net Yards: 528
-Home Time of Possession: 32:45
-Visitor Time of Possession: 27:15

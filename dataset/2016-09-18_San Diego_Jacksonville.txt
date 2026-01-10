@@ -1,9 +1,0 @@
-2016-09-18 00:00:00, San Diego at Jacksonville
-San Diego: 38
-Jacksonville: 14
-Home First Downs: 25
-Visitor First Downs: 20
-Home Net Yards: 357
-Visitor Net Yards: 388
-Home Time of Possession: 34:52
-Visitor Time of Possession: 25:08

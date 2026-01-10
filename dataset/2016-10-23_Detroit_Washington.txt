@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, Detroit at Washington
-Detroit: 20
-Washington: 17
-Home First Downs: 19
-Visitor First Downs: 26
-Home Net Yards: 344
-Visitor Net Yards: 413
-Home Time of Possession: 25:01
-Visitor Time of Possession: 34:59

@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, Atlanta at San Diego
-Atlanta: 30
-San Diego: 33
-Home First Downs: 21
-Visitor First Downs: 26
-Home Net Yards: 386
-Visitor Net Yards: 426
-Home Time of Possession: 30:30
-Visitor Time of Possession: 35:29

@@ -1,9 +1,0 @@
-2016-12-18 00:00:00, Dallas at Tampa Bay
-Dallas: 26
-Tampa Bay: 20
-Home First Downs: 24
-Visitor First Downs: 16
-Home Net Yards: 449
-Visitor Net Yards: 276
-Home Time of Possession: 36:04
-Visitor Time of Possession: 23:56

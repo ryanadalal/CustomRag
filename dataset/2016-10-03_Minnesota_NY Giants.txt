@@ -1,9 +1,0 @@
-2016-10-03 00:00:00, Minnesota at NY Giants
-Minnesota: 24
-NY Giants: 10
-Home First Downs: 22
-Visitor First Downs: 18
-Home Net Yards: 366
-Visitor Net Yards: 339
-Home Time of Possession: 35:32
-Visitor Time of Possession: 24:28

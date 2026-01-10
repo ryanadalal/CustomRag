@@ -1,9 +1,0 @@
-2016-01-03 00:00:00, Atlanta at New Orleans
-Atlanta: 17
-New Orleans: 20
-Home First Downs: 25
-Visitor First Downs: 24
-Home Net Yards: 414
-Visitor Net Yards: 390
-Home Time of Possession: 30:26
-Visitor Time of Possession: 29:34

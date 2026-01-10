@@ -1,9 +1,0 @@
-2016-10-16 00:00:00, Miami at Pittsburgh
-Miami: 30
-Pittsburgh: 15
-Home First Downs: 24
-Visitor First Downs: 15
-Home Net Yards: 474
-Visitor Net Yards: 297
-Home Time of Possession: 36:30
-Visitor Time of Possession: 23:30

@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, Cincinnati at Cleveland
-Cincinnati: 31
-Cleveland: 17
-Home First Downs: 23
-Visitor First Downs: 22
-Home Net Yards: 559
-Visitor Net Yards: 352
-Home Time of Possession: 28:12
-Visitor Time of Possession: 31:48

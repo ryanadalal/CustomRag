@@ -1,9 +1,0 @@
-2016-09-25 00:00:00, Buffalo at Arizona
-Buffalo: 33
-Arizona: 18
-Home First Downs: 16
-Visitor First Downs: 25
-Home Net Yards: 297
-Visitor Net Yards: 348
-Home Time of Possession: 26:00
-Visitor Time of Possession: 34:00

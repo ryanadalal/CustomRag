@@ -1,9 +1,0 @@
-2016-12-11 00:00:00, Buffalo at Pittsburgh
-Buffalo: 20
-Pittsburgh: 27
-Home First Downs: 14
-Visitor First Downs: 24
-Home Net Yards: 275
-Visitor Net Yards: 460
-Home Time of Possession: 21:19
-Visitor Time of Possession: 38:41

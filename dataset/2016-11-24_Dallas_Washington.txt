@@ -1,9 +1,0 @@
-2016-11-24 00:00:00, Dallas at Washington
-Dallas: 31
-Washington: 26
-Home First Downs: 24
-Visitor First Downs: 25
-Home Net Yards: 353
-Visitor Net Yards: 505
-Home Time of Possession: 26:36
-Visitor Time of Possession: 33:24

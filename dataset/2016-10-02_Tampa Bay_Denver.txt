@@ -1,9 +1,0 @@
-2016-10-02 00:00:00, Tampa Bay at Denver
-Tampa Bay: 7
-Denver: 27
-Home First Downs: 15
-Visitor First Downs: 22
-Home Net Yards: 215
-Visitor Net Yards: 307
-Home Time of Possession: 28:36
-Visitor Time of Possession: 31:24

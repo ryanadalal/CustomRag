@@ -1,9 +1,0 @@
-2016-12-11 00:00:00, Carolina at San Diego
-Carolina: 28
-San Diego: 16
-Home First Downs: 17
-Visitor First Downs: 17
-Home Net Yards: 272
-Visitor Net Yards: 278
-Home Time of Possession: 32:37
-Visitor Time of Possession: 27:23

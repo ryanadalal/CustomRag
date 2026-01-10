@@ -1,9 +1,0 @@
-2016-01-16 00:00:00, Arizona at Green Bay
-Arizona: 26
-Green Bay: 20
-Home First Downs: 20
-Visitor First Downs: 18
-Home Net Yards: 368
-Visitor Net Yards: 386
-Home Time of Possession: 30:51
-Visitor Time of Possession: 30:14

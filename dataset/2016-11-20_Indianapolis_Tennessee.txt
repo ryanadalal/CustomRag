@@ -1,9 +1,0 @@
-2016-11-20 00:00:00, Indianapolis at Tennessee
-Indianapolis: 24
-Tennessee: 17
-Home First Downs: 18
-Visitor First Downs: 20
-Home Net Yards: 327
-Visitor Net Yards: 351
-Home Time of Possession: 28:59
-Visitor Time of Possession: 31:01

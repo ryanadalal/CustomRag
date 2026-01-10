@@ -1,9 +1,0 @@
-2016-09-25 00:00:00, Kansas City at NY Jets
-Kansas City: 24
-NY Jets: 3
-Home First Downs: 18
-Visitor First Downs: 17
-Home Net Yards: 293
-Visitor Net Yards: 305
-Home Time of Possession: 32:05
-Visitor Time of Possession: 27:55

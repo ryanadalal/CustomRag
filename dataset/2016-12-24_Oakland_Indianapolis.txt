@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Oakland at Indianapolis
-Oakland: 33
-Indianapolis: 25
-Home First Downs: 27
-Visitor First Downs: 20
-Home Net Yards: 463
-Visitor Net Yards: 390
-Home Time of Possession: 36:05
-Visitor Time of Possession: 23:55

@@ -1,9 +1,0 @@
-2016-11-24 00:00:00, Indianapolis at Pittsburgh
-Indianapolis: 7
-Pittsburgh: 28
-Home First Downs: 18
-Visitor First Downs: 16
-Home Net Yards: 310
-Visitor Net Yards: 369
-Home Time of Possession: 31:45
-Visitor Time of Possession: 28:15

@@ -1,9 +1,0 @@
-2016-11-06 00:00:00, Baltimore at Pittsburgh
-Baltimore: 21
-Pittsburgh: 14
-Home First Downs: 13
-Visitor First Downs: 15
-Home Net Yards: 274
-Visitor Net Yards: 277
-Home Time of Possession: 32:10
-Visitor Time of Possession: 27:50

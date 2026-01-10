@@ -1,9 +1,0 @@
-2016-09-25 00:00:00, Tennessee at Oakland
-Tennessee: 10
-Oakland: 17
-Home First Downs: 19
-Visitor First Downs: 17
-Home Net Yards: 393
-Visitor Net Yards: 368
-Home Time of Possession: 30:57
-Visitor Time of Possession: 29:03

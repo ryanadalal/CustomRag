@@ -1,9 +1,0 @@
-2016-10-02 00:00:00, San Diego at New Orleans
-San Diego: 34
-New Orleans: 35
-Home First Downs: 21
-Visitor First Downs: 21
-Home Net Yards: 346
-Visitor Net Yards: 275
-Home Time of Possession: 27:21
-Visitor Time of Possession: 32:39

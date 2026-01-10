@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Houston at Cincinnati
-Houston: 12
-Cincinnati: 10
-Home First Downs: 17
-Visitor First Downs: 15
-Home Net Yards: 250
-Visitor Net Yards: 294
-Home Time of Possession: 31:06
-Visitor Time of Possession: 28:54

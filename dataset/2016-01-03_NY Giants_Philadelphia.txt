@@ -1,9 +1,0 @@
-2016-01-03 00:00:00, NY Giants at Philadelphia
-NY Giants: 30
-Philadelphia: 35
-Home First Downs: 30
-Visitor First Downs: 23
-Home Net Yards: 502
-Visitor Net Yards: 435
-Home Time of Possession: 31:54
-Visitor Time of Possession: 28:06

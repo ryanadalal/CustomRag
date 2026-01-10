@@ -1,9 +1,0 @@
-2016-10-02 00:00:00, Chicago at Detroit
-Chicago: 17
-Detroit: 14
-Home First Downs: 23
-Visitor First Downs: 16
-Home Net Yards: 408
-Visitor Net Yards: 263
-Home Time of Possession: 33:14
-Visitor Time of Possession: 26:46

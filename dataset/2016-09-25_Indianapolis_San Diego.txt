@@ -1,9 +1,0 @@
-2016-09-25 00:00:00, Indianapolis at San Diego
-Indianapolis: 26
-San Diego: 22
-Home First Downs: 24
-Visitor First Downs: 17
-Home Net Yards: 410
-Visitor Net Yards: 352
-Home Time of Possession: 32:43
-Visitor Time of Possession: 27:17

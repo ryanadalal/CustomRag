@@ -1,9 +1,0 @@
-2016-11-17 00:00:00, Carolina at New Orleans
-Carolina: 23
-New Orleans: 20
-Home First Downs: 17
-Visitor First Downs: 28
-Home Net Yards: 223
-Visitor Net Yards: 371
-Home Time of Possession: 27:45
-Visitor Time of Possession: 32:15

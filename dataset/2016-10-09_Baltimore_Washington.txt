@@ -1,9 +1,0 @@
-2016-10-09 00:00:00, Baltimore at Washington
-Baltimore: 10
-Washington: 16
-Home First Downs: 18
-Visitor First Downs: 18
-Home Net Yards: 306
-Visitor Net Yards: 310
-Home Time of Possession: 30:25
-Visitor Time of Possession: 29:35

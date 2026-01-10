@@ -1,9 +1,0 @@
-2016-12-12 00:00:00, New England at Baltimore
-New England: 30
-Baltimore: 23
-Home First Downs: 20
-Visitor First Downs: 17
-Home Net Yards: 496
-Visitor Net Yards: 348
-Home Time of Possession: 29:14
-Visitor Time of Possession: 30:46

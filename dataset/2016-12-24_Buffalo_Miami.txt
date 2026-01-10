@@ -1,9 +1,0 @@
-2016-12-24 00:00:00, Buffalo at Miami
-Buffalo: 31
-Miami: 34
-Home First Downs: 30
-Visitor First Downs: 22
-Home Net Yards: 589
-Visitor Net Yards: 494
-Home Time of Possession: 40:33
-Visitor Time of Possession: 33:40

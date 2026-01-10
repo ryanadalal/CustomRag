@@ -1,9 +1,0 @@
-2016-11-14 00:00:00, NY Giants at Cincinnati
-NY Giants: 21
-Cincinnati: 20
-Home First Downs: 23
-Visitor First Downs: 12
-Home Net Yards: 351
-Visitor Net Yards: 264
-Home Time of Possession: 31:23
-Visitor Time of Possession: 28:37

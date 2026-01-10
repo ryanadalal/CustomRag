@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, Baltimore at Cincinnati
-Baltimore: 19
-Cincinnati: 14
-Home First Downs: 16
-Visitor First Downs: 22
-Home Net Yards: 311
-Visitor Net Yards: 325
-Home Time of Possession: 31:17
-Visitor Time of Possession: 28:43

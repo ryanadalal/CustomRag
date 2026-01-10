@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, Cleveland at NY Giants
-Cleveland: 13
-NY Giants: 27
-Home First Downs: 21
-Visitor First Downs: 13
-Home Net Yards: 343
-Visitor Net Yards: 296
-Home Time of Possession: 33:51
-Visitor Time of Possession: 26:09

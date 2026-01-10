@@ -1,9 +1,0 @@
-2016-10-23 00:00:00, San Francisco at Tampa Bay
-San Francisco: 17
-Tampa Bay: 34
-Home First Downs: 20
-Visitor First Downs: 27
-Home Net Yards: 273
-Visitor Net Yards: 513
-Home Time of Possession: 26:11
-Visitor Time of Possession: 33:49

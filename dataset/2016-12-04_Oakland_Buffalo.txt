@@ -1,9 +1,0 @@
-2016-12-04 00:00:00, Oakland at Buffalo
-Oakland: 38
-Buffalo: 24
-Home First Downs: 24
-Visitor First Downs: 24
-Home Net Yards: 399
-Visitor Net Yards: 382
-Home Time of Possession: 29:45
-Visitor Time of Possession: 30:15

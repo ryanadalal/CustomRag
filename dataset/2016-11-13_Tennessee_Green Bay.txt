@@ -1,9 +1,0 @@
-2016-11-13 00:00:00, Tennessee at Green Bay
-Tennessee: 47
-Green Bay: 25
-Home First Downs: 19
-Visitor First Downs: 21
-Home Net Yards: 446
-Visitor Net Yards: 402
-Home Time of Possession: 29:31
-Visitor Time of Possession: 30:29

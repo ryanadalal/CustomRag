@@ -1,9 +1,0 @@
-2016-11-13 00:00:00, Tampa Bay at Chicago
-Tampa Bay: 36
-Chicago: 10
-Home First Downs: 22
-Visitor First Downs: 15
-Home Net Yards: 360
-Visitor Net Yards: 283
-Home Time of Possession: 37:09
-Visitor Time of Possession: 22:51

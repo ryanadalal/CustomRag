@@ -1,9 +1,0 @@
-2016-12-25 00:00:00, Pittsburgh at Baltimore
-Pittsburgh: 31
-Baltimore: 27
-Home First Downs: 23
-Visitor First Downs: 22
-Home Net Yards: 406
-Visitor Net Yards: 368
-Home Time of Possession: 25:23
-Visitor Time of Possession: 34:37

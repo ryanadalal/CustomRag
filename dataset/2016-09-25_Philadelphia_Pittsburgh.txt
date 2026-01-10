@@ -1,9 +1,0 @@
-2016-09-25 00:00:00, Philadelphia at Pittsburgh
-Philadelphia: 34
-Pittsburgh: 3
-Home First Downs: 25
-Visitor First Downs: 15
-Home Net Yards: 426
-Visitor Net Yards: 251
-Home Time of Possession: 34:56
-Visitor Time of Possession: 25:04

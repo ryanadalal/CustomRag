@@ -1,9 +1,0 @@
-2016-01-03 00:00:00, Indianapolis at Tennessee
-Indianapolis: 30
-Tennessee: 24
-Home First Downs: 20
-Visitor First Downs: 14
-Home Net Yards: 327
-Visitor Net Yards: 231
-Home Time of Possession: 33:17
-Visitor Time of Possession: 26:43

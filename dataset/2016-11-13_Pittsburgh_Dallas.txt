@@ -1,9 +1,0 @@
-2016-11-13 00:00:00, Pittsburgh at Dallas
-Pittsburgh: 30
-Dallas: 35
-Home First Downs: 30
-Visitor First Downs: 20
-Home Net Yards: 448
-Visitor Net Yards: 422
-Home Time of Possession: 29:36
-Visitor Time of Possession: 30:24

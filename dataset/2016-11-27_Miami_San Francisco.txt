@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, Miami at San Francisco
-Miami: 31
-San Francisco: 24
-Home First Downs: 19
-Visitor First Downs: 25
-Home Net Yards: 358
-Visitor Net Yards: 475
-Home Time of Possession: 30:32
-Visitor Time of Possession: 29:28

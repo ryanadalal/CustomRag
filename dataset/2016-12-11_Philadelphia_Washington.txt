@@ -1,9 +1,0 @@
-2016-12-11 00:00:00, Philadelphia at Washington
-Philadelphia: 22
-Washington: 27
-Home First Downs: 24
-Visitor First Downs: 16
-Home Net Yards: 383
-Visitor Net Yards: 334
-Home Time of Possession: 36:38
-Visitor Time of Possession: 23:22

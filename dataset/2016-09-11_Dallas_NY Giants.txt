@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Dallas at NY Giants
-Dallas: 19
-NY Giants: 20
-Home First Downs: 24
-Visitor First Downs: 18
-Home Net Yards: 328
-Visitor Net Yards: 316
-Home Time of Possession: 36:43
-Visitor Time of Possession: 23:17

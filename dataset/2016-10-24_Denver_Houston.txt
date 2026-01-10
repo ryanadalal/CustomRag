@@ -1,9 +1,0 @@
-2016-10-24 00:00:00, Denver at Houston
-Denver: 27
-Houston: 9
-Home First Downs: 19
-Visitor First Downs: 14
-Home Net Yards: 347
-Visitor Net Yards: 271
-Home Time of Possession: 30:38
-Visitor Time of Possession: 29:22

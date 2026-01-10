@@ -1,9 +1,0 @@
-2016-09-11 00:00:00, Houston at Chicago
-Houston: 23
-Chicago: 14
-Home First Downs: 17
-Visitor First Downs: 14
-Home Net Yards: 344
-Visitor Net Yards: 258
-Home Time of Possession: 36:19
-Visitor Time of Possession: 23:41

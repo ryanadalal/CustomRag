@@ -1,9 +1,0 @@
-2016-11-27 00:00:00, Tampa Bay at Seattle
-Tampa Bay: 14
-Seattle: 5
-Home First Downs: 19
-Visitor First Downs: 16
-Home Net Yards: 338
-Visitor Net Yards: 245
-Home Time of Possession: 33:39
-Visitor Time of Possession: 26:21

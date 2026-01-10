@@ -1,9 +1,0 @@
-2016-11-06 00:00:00, San Diego at Tennessee
-San Diego: 43
-Tennessee: 35
-Home First Downs: 31
-Visitor First Downs: 24
-Home Net Yards: 476
-Visitor Net Yards: 393
-Home Time of Possession: 36:29
-Visitor Time of Possession: 23:31
