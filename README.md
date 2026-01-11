@@ -9,3 +9,4 @@
 ## Future
 
 - implement hallucination checks and verification
+- use a fine-tuned classified to check for hallucination
