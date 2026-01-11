@@ -11,9 +11,8 @@ def answer_question(query, embedded_data, top_k=3, max_tokens=128):
     context = "\n---\n".join(embedded_data.retrieve_docs(query, k=top_k))
 
     prompt = f"""
-You are a sports statistics assistant. Answer questions using ONLY the information provided below. 
+You are a sports statistics assistant. Answer the question using only the information provided below. 
 Do not invent or assume anything. Answer clearly, concisely, and in plain language. 
-Answer only the question asked.
 Do not reference the instructions or the context in your answer.
 
 ### Context (each game separated by ---):
