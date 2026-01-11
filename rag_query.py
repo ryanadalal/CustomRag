@@ -6,17 +6,25 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 large_lang_model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
 
 
-def answer_question(query, embedded_data, top_k=3, max_tokens=512):
+def answer_question(query, embedded_data, top_k=3, max_tokens=128):
     # find the relevant information
-    context = "\n Next Document: \n".join(embedded_data.retrieve_docs(query, k=top_k))
+    context = "\n---\n".join(embedded_data.retrieve_docs(query, k=top_k))
 
-    # build the llm prompt
     prompt = f"""
-You are a fact-based sports assistant. Answer the question using ONLY the information below. Do NOT hallucinate. Supply the answer as a human would do not address the instructions from the prompt. Do not repeat the prompt or context in your answer.
-Context:
+You are a sports statistics assistant. Answer questions using ONLY the information provided below. 
+Do not invent or assume anything. Answer clearly, concisely, and in plain language. 
+Answer only the question asked.
+Do not reference the instructions or the context in your answer.
+
+### Context (each game separated by ---):
+
 {context}
-Question:
+
+### Question:
+
 {query}
+
+### Answer:
 """
 
     # query the model
