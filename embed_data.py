@@ -91,8 +91,4 @@ class EmbeddedData:
         # search using a query
         k = 3
         D, I = self.index.search(np.array(query_emb), k)
-        docs = []
-        # iterate through all of the resulting indexes
-        for idx in I[0]:
-            docs.append(self.dataframe.iloc[idx]["text"])
-        return docs
+        return self.dataframe.iloc[I[0]]

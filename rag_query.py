@@ -8,12 +8,13 @@ large_lang_model = AutoModelForCausalLM.from_pretrained(model_name, device_map="
 
 def answer_question(query, embedded_data, top_k=3, max_tokens=128):
     # find the relevant information
-    context = "\n---\n".join(embedded_data.retrieve_docs(query, k=top_k))
+    info = embedded_data.retrieve_docs(query, k=top_k)
+    context = "\n---\n".join(info["text"].tolist())
 
     prompt = f"""
 You are a sports statistics assistant. Answer the question using only the information provided below. 
 Do not invent or assume anything. Answer clearly, concisely, and in plain language. 
-Do not reference the instructions or the context in your answer.
+Do not reference the instructions or the context in your answer, so only output your final answer.
 
 ### Context (each game separated by ---):
 
