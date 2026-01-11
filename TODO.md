@@ -1,0 +1,2 @@
+- quantize model
+- save faiss embeddings
